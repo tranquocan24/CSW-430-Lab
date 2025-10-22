@@ -5,15 +5,7 @@
  * @format
  */
 import React from 'react';
-import {
-  StatusBar,
-  StyleSheet,
-  useColorScheme,
-  View,
-  Text,
-  TextInput,
-  Button,
-} from 'react-native';
+import { View, Text, TextInput, Button } from 'react-native';
 import styles from './styles';
 import { useState } from 'react';
 
