@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSE\\CSW 430\\LAB2\\Q1WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{487950EA-F208-49FE-921E-DB706668DF3B}|Q1WebAPI\\Q1WebAPI.csproj|d:\\cse\\csw 430\\lab2\\q1webapi\\q1webapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487950EA-F208-49FE-921E-DB706668DF3B}|Q1WebAPI\\Q1WebAPI.csproj|solutionrelative:q1webapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487950EA-F208-49FE-921E-DB706668DF3B}|Q1WebAPI\\Q1WebAPI.csproj|d:\\cse\\csw 430\\lab2\\q1webapi\\q1webapi\\models\\book.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{487950EA-F208-49FE-921E-DB706668DF3B}|Q1WebAPI\\Q1WebAPI.csproj|solutionrelative:q1webapi\\models\\book.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\CSE\\CSW 430\\LAB2\\Q1WebAPI\\Q1WebAPI\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Q1WebAPI\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\CSE\\CSW 430\\LAB2\\Q1WebAPI\\Q1WebAPI\\Controllers\\BooksController.cs*",
+              "RelativeToolTip": "Q1WebAPI\\Controllers\\BooksController.cs*",
+              "ViewState": "AgIAACsAAAAAAAAAAAAEwDYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T08:41:54.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BOOK.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\CSE\\CSW 430\\LAB2\\Q1WebAPI\\Q1WebAPI\\Models\\BOOK.edmx",
+              "RelativeDocumentMoniker": "Q1WebAPI\\Models\\BOOK.edmx",
+              "ToolTip": "D:\\CSE\\CSW 430\\LAB2\\Q1WebAPI\\Q1WebAPI\\Models\\BOOK.edmx [Diagram1]",
+              "RelativeToolTip": "Q1WebAPI\\Models\\BOOK.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-10-21T08:40:39.639Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
